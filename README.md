@@ -1,2 +1,3 @@
-# apex-zsh-alias-precommit
-A micro-SaaS product providing a robust pre-commit hook that automatically sorts, deduplicates, and 
+# ZSH Alias Pre-commit Hook
+
+Automate the sorting, deduplication, and basic validation of your ZSH aliases with this simple pre-commit hook. Keep your dotfiles clean, organized, and error-free effortlessly.
